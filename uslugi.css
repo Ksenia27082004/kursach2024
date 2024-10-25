@@ -1,0 +1,287 @@
+.icon {
+  	position: absolute;
+  	top: -232px;
+  	left: -343px;
+  	width: 2364px;
+  	height: 3537px;
+  	object-fit: contain;
+}
+.icon1 {
+  	position: absolute;
+  	top: 797px;
+  	left: 99px;
+  	border-radius: 363px;
+  	width: 309px;
+  	height: 303px;
+  	object-fit: cover;
+}
+.div1 {
+  	position: absolute;
+  	top: 128px;
+  	left: 272px;
+  	font-size: 64px;
+  	letter-spacing: 26px;
+  	line-height: 108%;
+  	font-weight: 800;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 376px;
+  	height: 72px;
+}
+.div2 {
+  	position: absolute;
+  	top: 249px;
+  	left: 430px;
+  	letter-spacing: 8px;
+  	line-height: 108%;
+  	font-weight: 800;
+  	color: #f083a2;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 314px;
+  	height: 49px;
+  	text-shadow: 1px 0 0 #4a2630, 0 1px 0 #4a2630, -1px 0 0 #4a2630, 0 -1px 0 #4a2630;
+}
+.div3 {
+  	position: absolute;
+  	top: 797px;
+  	left: 429px;
+  	letter-spacing: 8px;
+  	line-height: 108%;
+  	font-weight: 800;
+  	color: #f083a2;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 192px;
+  	height: 40px;
+  	text-shadow: 1px 0 0 #4a2630, 0 1px 0 #4a2630, -1px 0 0 #4a2630, 0 -1px 0 #4a2630;
+}
+.div4 {
+  	position: absolute;
+  	top: 1149px;
+  	left: 451px;
+  	letter-spacing: 8px;
+  	line-height: 108%;
+  	font-weight: 800;
+  	color: #f083a2;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 509px;
+  	height: 42px;
+  	text-shadow: 1px 0 0 #4a2630, 0 1px 0 #4a2630, -1px 0 0 #4a2630, 0 -1px 0 #4a2630;
+}
+.div5 {
+  	position: absolute;
+  	top: 1516px;
+  	left: 450px;
+  	letter-spacing: 8px;
+  	line-height: 108%;
+  	font-weight: 800;
+  	color: #f083a2;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 184px;
+  	height: 48px;
+  	text-shadow: 1px 0 0 #4a2630, 0 1px 0 #4a2630, -1px 0 0 #4a2630, 0 -1px 0 #4a2630;
+}
+.logo-crystal-krug-1-icon {
+  	position: absolute;
+  	top: 103px;
+  	left: 120px;
+  	width: 122px;
+  	height: 122px;
+  	object-fit: cover;
+}
+.aa413c0a-d7c9-4872-9072-fe1e84-icon {
+  	position: absolute;
+  	top: 240px;
+  	left: 99px;
+  	border-radius: 203px;
+  	width: 309px;
+  	height: 508px;
+  	object-fit: cover;
+}
+.child {
+  	position: absolute;
+  	top: 317px;
+  	left: 430px;
+  	border-radius: 100px;
+  	background-color: #484848;
+  	width: 908px;
+  	height: 431px;
+}
+.item {
+  	position: absolute;
+  	top: 848px;
+  	left: 429px;
+  	border-radius: 100px;
+  	background-color: #484848;
+  	width: 909px;
+  	height: 252px;
+}
+.inner {
+  	position: absolute;
+  	top: 1201px;
+  	left: 451px;
+  	border-radius: 100px;
+  	width: 887px;
+  	height: 256px;
+}
+.li {
+  	margin-bottom: 0px;
+}
+.ul {
+  	margin: 0;
+  	font-family: inherit;
+  	font-size: inherit;
+  	padding-left: 27px;
+}
+.div6 {
+  	position: absolute;
+  	top: 1202px;
+  	left: 510px;
+  	font-size: 20px;
+  	letter-spacing: 4px;
+  	line-height: 130%;
+  	font-weight: 500;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 702px;
+  	height: 242px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 1571px;
+  	left: 451px;
+  	border-radius: 100px;
+  	background-color: #484848;
+  	width: 887px;
+  	height: 261px;
+}
+.child1 {
+  	position: absolute;
+  	top: 1944px;
+  	left: 450px;
+  	border-radius: 100px;
+  	background-color: #484848;
+  	width: 888px;
+  	height: 262px;
+}
+.p {
+  	margin: 0;
+}
+.txt {
+  	width: 100%;
+}
+.div7 {
+  	position: absolute;
+  	top: 1615px;
+  	left: 510px;
+  	font-size: 20px;
+  	letter-spacing: 4px;
+  	line-height: 130%;
+  	font-weight: 500;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 596px;
+  	height: 155px;
+}
+.div8 {
+  	position: absolute;
+  	top: 2011px;
+  	left: 516px;
+  	font-size: 20px;
+  	letter-spacing: 4px;
+  	line-height: 160%;
+  	font-weight: 500;
+  	text-align: left;
+}
+.div9 {
+  	position: absolute;
+  	top: 347px;
+  	left: 472px;
+  	font-size: 20px;
+  	letter-spacing: 4px;
+  	line-height: 108%;
+  	font-weight: 500;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 703px;
+  	height: 382px;
+}
+.div10 {
+  	position: absolute;
+  	top: 876px;
+  	left: 484px;
+  	font-size: 20px;
+  	letter-spacing: 4px;
+  	line-height: 108%;
+  	font-weight: 500;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 751px;
+  	height: 199px;
+}
+.icon2 {
+  	position: absolute;
+  	top: 1516px;
+  	left: 99px;
+  	border-radius: 202.5px;
+  	width: 330px;
+  	height: 316px;
+  	object-fit: cover;
+}
+.hairstylist-branding-photoshoo {
+  	position: absolute;
+  	top: 1881px;
+  	left: 99px;
+  	border-radius: 368px;
+  	width: 330px;
+  	height: 325px;
+  	object-fit: cover;
+}
+.div11 {
+  	position: absolute;
+  	top: 1891px;
+  	left: 450px;
+  	letter-spacing: 8px;
+  	line-height: 108%;
+  	font-weight: 800;
+  	color: #f083a2;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 346px;
+  	height: 46px;
+  	text-shadow: 1px 0 0 #4a2630, 0 1px 0 #4a2630, -1px 0 0 #4a2630, 0 -1px 0 #4a2630;
+}
+.icon3 {
+  	position: absolute;
+  	top: 1149px;
+  	left: 99px;
+  	border-radius: 368px;
+  	width: 330px;
+  	height: 318px;
+  	object-fit: cover;
+}
+.div {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 2309px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 32px;
+  	color: #fff;
+  	font-family: 'Roboto Flex';
+}
+
